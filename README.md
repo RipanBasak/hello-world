@@ -3,4 +3,7 @@
 2. go to api-test directory 
 3. type on command promt meteor run or meteor
 4. go to locallhost:3000 or ip_address:3000 on browser
-  
+
+ Note: need to have installed meteor on your system
+ url: https://www.meteor.com/install
+ 
