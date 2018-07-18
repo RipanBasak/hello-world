@@ -5,5 +5,5 @@
 4. go to locallhost:3000 or ip_address:3000 on browser
 
  Note: need to have installed meteor on your system
- url: https://www.meteor.com/install
+ [URL]: https://www.meteor.com/install
  
